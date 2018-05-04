@@ -1,0 +1,57 @@
+
+Execução com maior eficiência evolucionária: 
+Execução nº 16
+Geração Decisiva: 22 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 39, Func. Objetivo= 5.684341886080801E-13
+Rotina adotada: Elitista
+Parâmetros utilizados:
+- 40 indivíduos;
+- Crossover: 98.96997159741771%;
+- Mutação: 8.809079914687153%;
+-Desvio Padrão: 0.16211739968939604
+Tempo de execução: 234000000 nanosegundos | 234 milissegundos
+
+Execução com pior eficiência evolucionária: 
+Execução nº 17
+Geração Decisiva: 45 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 54, Func. Objetivo= 1.1368683772161603E-13
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 55 indivíduos;
+- Crossover: 79.19871358626344%;
+- Mutação: 2.6202391878321096%;
+-Desvio Padrão: 0.13731430681184956
+Tempo de execução: 250000000 nanosegundos | 250 milissegundos
+
+Tempo médio de execução: 292.8
+Geração definitiva média: 31.933333333333334
+Execução com maior eficiência evolucionária: 
+Execução nº 4
+Geração Decisiva: 26 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 54, Func. Objetivo= 1.9895196601282805E-11
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 55 indivíduos;
+- Crossover: 78.27960736329543%;
+- Mutação: 7.450534869783877%;
+-Desvio Padrão: 0.13731430681184956
+Tempo de execução: 328000000 nanosegundos | 328 milissegundos
+
+Execução com pior eficiência evolucionária: 
+Execução nº 23
+Geração Decisiva: 50 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 39, Func. Objetivo= 1.2505552149377763E-12
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 40 indivíduos;
+- Crossover: 53.90465257736492%;
+- Mutação: 1.2240124137092279%;
+-Desvio Padrão: 0.16211739968939604
+Tempo de execução: 156000000 nanosegundos | 156 milissegundos
+
+Tempo médio de execução: 380.73333333333335
+Geração definitiva média: 33.1
