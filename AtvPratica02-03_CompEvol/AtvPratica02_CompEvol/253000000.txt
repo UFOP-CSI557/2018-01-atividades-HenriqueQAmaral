@@ -1,0 +1,53 @@
+
+Execução com maior eficiência evolucionária: 
+Execução nº 1
+Geração Decisiva: 33 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 89, Func. Objetivo= 3.410605131648481E-13
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 90 indivíduos;
+- Crossover: 84.30070404008498%;
+- Mutação: 1.8862954744553164%;
+Tempo de execução: 516000000 nanosegundos | 516 milissegundos
+
+Execução com pior eficiência evolucionária: 
+Execução nº 2
+Geração Decisiva: 39 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 89, Func. Objetivo= 2.2737367544323206E-13
+Rotina adotada: Elitista
+Parâmetros utilizados:
+- 90 indivíduos;
+- Crossover: 84.30070404008498%;
+- Mutação: 1.8862954744553164%;
+Tempo de execução: 515000000 nanosegundos | 515 milissegundos
+
+Tempo médio de execução: 515.5
+Geração definitiva média: 36.0
+Execução com maior eficiência evolucionária: 
+Execução nº 1
+Geração Decisiva: 30 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 89, Func. Objetivo= 1.1368683772161603E-13
+Rotina adotada: Elitista
+Parâmetros utilizados:
+- 90 indivíduos;
+- Crossover: 84.30070404008498%;
+- Mutação: 1.8862954744553164%;
+Tempo de execução: 453000000 nanosegundos | 453 milissegundos
+
+Execução com pior eficiência evolucionária: 
+Execução nº 2
+Geração Decisiva: 36 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 89, Func. Objetivo= 4.411049303598702E-11
+Rotina adotada: Elitista
+Parâmetros utilizados:
+- 90 indivíduos;
+- Crossover: 84.30070404008498%;
+- Mutação: 1.8862954744553164%;
+Tempo de execução: 516000000 nanosegundos | 516 milissegundos
+
+Tempo médio de execução: 484.5
+Geração definitiva média: 33.0

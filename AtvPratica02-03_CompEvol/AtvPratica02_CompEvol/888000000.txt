@@ -1,0 +1,57 @@
+
+Execução com maior eficiência evolucionária: 
+Execução nº 16
+Geração Decisiva: 24 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 99, Func. Objetivo= 9.094947017729282E-13
+Rotina adotada: Aleatorio
+Parâmetros utilizados:
+- 100 indivíduos;
+- Crossover: 97.54732742287719%;
+- Mutação: 5.251590713566956%;
+-Desvio Padrão: 0.010050378152592118
+Tempo de execução: 531000000 nanosegundos | 531 milissegundos
+
+Execução com pior eficiência evolucionária: 
+Execução nº 8
+Geração Decisiva: 46 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 199, Func. Objetivo= 1.1368683772161603E-13
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 200 indivíduos;
+- Crossover: 75.30188386668536%;
+- Mutação: 9.306603120361935%;
+-Desvio Padrão: 0.005012547071170847
+Tempo de execução: 859000000 nanosegundos | 859 milissegundos
+
+Tempo médio de execução: 363.3
+Geração definitiva média: 32.43333333333333
+Execução com maior eficiência evolucionária: 
+Execução nº 24
+Geração Decisiva: 23 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 99, Func. Objetivo= 1.1368683772161603E-13
+Rotina adotada: Elitista
+Parâmetros utilizados:
+- 100 indivíduos;
+- Crossover: 69.18720779960725%;
+- Mutação: 3.6309758993911623%;
+-Desvio Padrão: 0.010050378152592118
+Tempo de execução: 375000000 nanosegundos | 375 milissegundos
+
+Execução com pior eficiência evolucionária: 
+Execução nº 22
+Geração Decisiva: 40 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 89, Func. Objetivo= 2.2737367544323206E-13
+Rotina adotada: Elitista
+Parâmetros utilizados:
+- 90 indivíduos;
+- Crossover: 66.03681999417951%;
+- Mutação: 5.852018786673402%;
+-Desvio Padrão: 0.011173358719233193
+Tempo de execução: 344000000 nanosegundos | 344 milissegundos
+
+Tempo médio de execução: 379.3
+Geração definitiva média: 30.533333333333335

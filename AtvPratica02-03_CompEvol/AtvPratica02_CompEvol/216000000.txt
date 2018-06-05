@@ -1,0 +1,57 @@
+
+Execução com maior eficiência evolucionária: 
+Execução nº 9
+Geração Decisiva: 19 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 54, Func. Objetivo= 2.3874235921539366E-12
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 55 indivíduos;
+- Crossover: 98.43944734283411%;
+- Mutação: 8.288561865437662%;
+-Desvio Padrão: 0.13731430681184956
+Tempo de execução: 375000000 nanosegundos | 375 milissegundos
+
+Execução com pior eficiência evolucionária: 
+Execução nº 12
+Geração Decisiva: 45 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 39, Func. Objetivo= 3.410605131648481E-13
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 40 indivíduos;
+- Crossover: 60.15810476711562%;
+- Mutação: 6.940910888658859%;
+-Desvio Padrão: 0.16211739968939604
+Tempo de execução: 313000000 nanosegundos | 313 milissegundos
+
+Tempo médio de execução: 438.53333333333336
+Geração definitiva média: 33.4
+Execução com maior eficiência evolucionária: 
+Execução nº 11
+Geração Decisiva: 25 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 39, Func. Objetivo= 2.0463630789890885E-12
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 40 indivíduos;
+- Crossover: 97.68428696119767%;
+- Mutação: 7.087030921171525%;
+-Desvio Padrão: 0.16211739968939604
+Tempo de execução: 250000000 nanosegundos | 250 milissegundos
+
+Execução com pior eficiência evolucionária: 
+Execução nº 24
+Geração Decisiva: 47 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 39, Func. Objetivo= 3.410605131648481E-13
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 40 indivíduos;
+- Crossover: 55.80320385635926%;
+- Mutação: 1.67771311363754%;
+-Desvio Padrão: 0.16211739968939604
+Tempo de execução: 187000000 nanosegundos | 187 milissegundos
+
+Tempo médio de execução: 333.03333333333336
+Geração definitiva média: 33.2

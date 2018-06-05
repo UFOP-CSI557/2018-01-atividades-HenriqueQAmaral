@@ -1,0 +1,57 @@
+
+Execução com maior eficiência evolucionária: 
+Execução nº 5
+Geração Decisiva: 18 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 54, Func. Objetivo= 6.821210263296962E-13
+Rotina adotada: Elitista
+Parâmetros utilizados:
+- 55 indivíduos;
+- Crossover: 97.5949881920633%;
+- Mutação: 7.518458630461208%;
+-Desvio Padrão: 0.13731430681184956
+Tempo de execução: 265000000 nanosegundos | 265 milissegundos
+
+Execução com pior eficiência evolucionária: 
+Execução nº 29
+Geração Decisiva: 49 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 89, Func. Objetivo= 6.139089236967266E-12
+Rotina adotada: Elitista
+Parâmetros utilizados:
+- 90 indivíduos;
+- Crossover: 51.873074434287226%;
+- Mutação: 2.79096281519837%;
+-Desvio Padrão: 0.10658704893770331
+Tempo de execução: 297000000 nanosegundos | 297 milissegundos
+
+Tempo médio de execução: 384.3
+Geração definitiva média: 32.0
+Execução com maior eficiência evolucionária: 
+Execução nº 7
+Geração Decisiva: 23 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 199, Func. Objetivo= 7.958078640513122E-13
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 200 indivíduos;
+- Crossover: 97.90664561500803%;
+- Mutação: 7.741629548482985%;
+-Desvio Padrão: 0.07106511982879751
+Tempo de execução: 922000000 nanosegundos | 922 milissegundos
+
+Execução com pior eficiência evolucionária: 
+Execução nº 6
+Geração Decisiva: 44 (última a possuir um indivíduo não ótimo)
+Melhor indivíduo: ID= 0, Func. Objetivo= 0.0
+Pior individuo: ID= 199, Func. Objetivo= 1.0231815394945443E-12
+Rotina adotada: Torneio
+Parâmetros utilizados:
+- 200 indivíduos;
+- Crossover: 52.99636390502571%;
+- Mutação: 5.3580925756733695%;
+-Desvio Padrão: 0.07106511982879751
+Tempo de execução: 750000000 nanosegundos | 750 milissegundos
+
+Tempo médio de execução: 410.3333333333333
+Geração definitiva média: 30.266666666666666
