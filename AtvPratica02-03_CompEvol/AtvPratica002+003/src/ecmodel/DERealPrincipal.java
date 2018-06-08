@@ -23,9 +23,12 @@ public class DERealPrincipal {
      * @return
      */
     public static ArrayList<Execucao> run() {
-
-        Double minimo = -100.0;
-        Double maximo = 100.0;
+        
+        Double [] FValues = {0.001, 0.2, 0.09, 0.1};
+        Double [] CrValues = {0.9, 0.7, 0.8, 0.99};
+        
+        Double minimo = -5.12;
+        Double maximo = 5.12;
 
         int D = 100;
         Problema problema = new ProblemaRastrigin(D);
@@ -46,16 +49,11 @@ public class DERealPrincipal {
         boolean encerrar = false;
 
         do {
-            F = rnd.nextDouble();
-            if (F >= 0.1) {
-                F *= 0.2;
-            }
+            //F = FValues[rnd.nextInt(3)];
 
-            Cr = rnd.nextDouble();
-            if (Cr <= 0.8) {
-                Cr += (1 - Cr) * rnd.nextDouble();
-            }
-            
+            //Cr = CrValues[rnd.nextInt(3)];
+
+           
             DEReal deReal = new DEReal(minimo, maximo, problema, gmax, D, Np, F, Cr);
             
             if (rnd.nextBoolean() && execucoes1 > 0) { //Caso a execução seja definida para o 1 e ele não tenha atingido o limite

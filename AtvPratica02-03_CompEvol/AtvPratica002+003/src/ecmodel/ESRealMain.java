@@ -27,11 +27,14 @@ public class ESRealMain {
      */
     public static ArrayList<Execucao> run() {
 
-        Double minimo = -100.0;
-        Double maximo = 100.0;
+        Double minimo = -5.12;
+        Double maximo = 5.12;
         Integer nVariaveis = 100;
         Problema problema = new ProblemaRastrigin(nVariaveis);
-
+        
+        int [] lambdaValues = {100, 50, 90, 150, 120};
+        Double [] mutacaoValues = {0.8, 0.9, 0.7, 0.89, 0.99};
+        
         // Parametros - ES
         Integer mu = 20; // Tamanho da populacao
         Integer lambda = 100; // numero de descendentes
@@ -49,12 +52,9 @@ public class ESRealMain {
 
         do {
             
-            pMutacao = rnd.nextDouble();
-            if (pMutacao >= 0.1) {
-                pMutacao *= 0.2;
-            }
+            pMutacao = mutacaoValues[rnd.nextInt(4)];
 
-            lambda = rnd.nextInt(100);
+            lambda = lambdaValues[rnd.nextInt(4)];
             
             ESReal esReal = new ESReal(minimo, maximo, nVariaveis, problema, mu, lambda, geracoes, pMutacao);
             
